@@ -1,0 +1,8 @@
+# Cloned private reference repo (own git history, kept in sync separately)
+projectguidefordev/
+
+# Local Claude Code config (machine-local, never committed)
+.claude/
+
+# macOS
+.DS_Store
