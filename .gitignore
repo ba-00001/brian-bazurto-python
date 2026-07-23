@@ -1,0 +1,5 @@
+# Cloned private reference repo (own git history, kept in sync separately)
+projectguidefordev/
+
+# macOS
+.DS_Store
