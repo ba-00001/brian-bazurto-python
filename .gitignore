@@ -7,3 +7,6 @@ projectguidefordev/
 # Python-generated files
 __pycache__/
 *.py[cod]
+
+# Saved course lesson pages (reference material, not deliverables)
+course lessons/
