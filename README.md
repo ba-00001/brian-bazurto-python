@@ -9,11 +9,7 @@
 
 Coursework for **Python Intro 26.3 — Pilot** (Code the Dream), all eleven weeks.
 
-**Brian Bazurto** · CS student, Florida International University (Honors
-College) · Miami, FL
-[LinkedIn](https://linkedin.com/in/IBA001) ·
-[Portfolio](https://brianbazurto.vercel.app) ·
-[GitHub](https://github.com/ba-00001)
+
 
 > **This page is the index for the whole course.** Every assignment's branch,
 > pull request, submission README, and video reflection is listed below,
