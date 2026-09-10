@@ -4,7 +4,7 @@
   <!-- <a href="https://linkedin.com/in/IBA001"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-IBA001-0a66c2?style=flat-square&labelColor=071626"></a> -->
   <!-- <a href="https://brianbazurto.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-brianbazurto.vercel.app-38bdf8?style=flat-square&labelColor=071626"></a> -->
   <a href="https://github.com/ba-00001"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-ba--00001-171515?style=flat-square&labelColor=071626"></a>
-  <img alt="Course" src="https://img.shields.io/badge/COURSE-CODE%20THE%20DREAM%20%C2%B7%20PYTHON%20INTRO%2026.3-f0a500?style=flat-square&labelColor=071626">
+  <!-- <img alt="Course" src="https://img.shields.io/badge/COURSE-CODE%20THE%20DREAM%20%C2%B7%20PYTHON%20INTRO%2026.3-f0a500?style=flat-square&labelColor=071626"> -->
 </p>
 
 Coursework for **Python Intro 26.3 — Pilot** (Code the Dream), all eleven weeks.
