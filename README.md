@@ -151,11 +151,4 @@ each affected assignment README.
 
 ---
 
-## Repository note
 
-[`ba-00001/brian-bazurto-python-2`](https://github.com/ba-00001/brian-bazurto-python-2)
-is an **archived** duplicate of Assignment 1 and is **not** part of any
-submission. It was made read-only deliberately: its `assignment-1.py` is
-byte-for-byte identical to the copy here, it contains no work that exists
-nowhere else, and its open pull request should not be mistaken for a live
-submission. This repository is the one every other assignment README links to.
